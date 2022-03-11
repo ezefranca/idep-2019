@@ -2,6 +2,8 @@
 
 # Análise dos dados do IDEP de São Paulo (SP) 2019
 
+![](mapIDEP.png)
+
 ## Projeto Mineração de Dados Educacionais (MDE) 
 ### Inteligência Artificial na Educação
 
